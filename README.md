@@ -1,4 +1,4 @@
-A tool for interacting with MS605 magnetic stripe reader/writer.  
+A tool for interacting with MSR605 magnetic stripe reader/writer.  
 It works in a console and allows the user to read/write/copy in ISO/RAW mode.
 
 Not well coded, a lot of redondant code ! Take it as is ^^
